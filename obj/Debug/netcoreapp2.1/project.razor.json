@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\still\\Documents\\Code\\c-sharp-oop\\mod01_self_assessment\\mod01_self_assessment.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

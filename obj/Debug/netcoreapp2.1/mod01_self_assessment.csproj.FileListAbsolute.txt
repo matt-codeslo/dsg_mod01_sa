@@ -1,11 +1,22 @@
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\obj\Debug\netcoreapp2.1\mod01_self_assessment.csprojAssemblyReference.cache
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\obj\Debug\netcoreapp2.1\mod01_self_assessment.csproj.CoreCompileInputs.cache
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\obj\Debug\netcoreapp2.1\mod01_self_assessment.AssemblyInfoInputs.cache
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\obj\Debug\netcoreapp2.1\mod01_self_assessment.AssemblyInfo.cs
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\bin\Debug\netcoreapp2.1\mod01_self_assessment.deps.json
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\bin\Debug\netcoreapp2.1\mod01_self_assessment.runtimeconfig.json
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\bin\Debug\netcoreapp2.1\mod01_self_assessment.runtimeconfig.dev.json
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\bin\Debug\netcoreapp2.1\mod01_self_assessment.dll
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\bin\Debug\netcoreapp2.1\mod01_self_assessment.pdb
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\obj\Debug\netcoreapp2.1\mod01_self_assessment.dll
-C:\Users\still\Documents\Code\c-sharp-oop\mod01_self_assessment\obj\Debug\netcoreapp2.1\mod01_self_assessment.pdb
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/obj/Debug/netcoreapp2.1/mod01_self_assessment.csprojAssemblyReference.cache
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/obj/Debug/netcoreapp2.1/mod01_self_assessment.csproj.CoreCompileInputs.cache
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/obj/Debug/netcoreapp2.1/mod01_self_assessment.AssemblyInfoInputs.cache
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/obj/Debug/netcoreapp2.1/mod01_self_assessment.AssemblyInfo.cs
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/bin/Debug/netcoreapp2.1/mod01_self_assessment.deps.json
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/bin/Debug/netcoreapp2.1/mod01_self_assessment.runtimeconfig.json
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/bin/Debug/netcoreapp2.1/mod01_self_assessment.runtimeconfig.dev.json
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/bin/Debug/netcoreapp2.1/mod01_self_assessment.dll
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/bin/Debug/netcoreapp2.1/mod01_self_assessment.pdb
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/obj/Debug/netcoreapp2.1/mod01_self_assessment.dll
+C:/Users/still/Documents/Code/c-sharp-oop/mod01_self_assessment/obj/Debug/netcoreapp2.1/mod01_self_assessment.pdb
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/Debug/netcoreapp2.1/mod01_self_assessment.csprojAssemblyReference.cache
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/Debug/netcoreapp2.1/mod01_self_assessment.csproj.CoreCompileInputs.cache
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/Debug/netcoreapp2.1/mod01_self_assessment.AssemblyInfoInputs.cache
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/Debug/netcoreapp2.1/mod01_self_assessment.AssemblyInfo.cs
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/Debug/netcoreapp2.1/mod01_self_assessment.dll
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/Debug/netcoreapp2.1/mod01_self_assessment.pdb
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/bin/Debug/netcoreapp2.1/mod01_self_assessment.deps.json
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/bin/Debug/netcoreapp2.1/mod01_self_assessment.runtimeconfig.json
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/bin/Debug/netcoreapp2.1/mod01_self_assessment.runtimeconfig.dev.json
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/bin/Debug/netcoreapp2.1/mod01_self_assessment.dll
+/home/matt/Documents/Code/Intro to C#/Mod01_sa/bin/Debug/netcoreapp2.1/mod01_self_assessment.pdb

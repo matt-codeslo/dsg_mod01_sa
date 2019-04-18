@@ -5,7 +5,6 @@ namespace mod01_self_assessment
 {
     class UProgram
     {
-        public int ID { get; set; }
         public string Name { get; set; }
         public List<Degree> Degrees { get; set; }
 
@@ -15,13 +14,9 @@ namespace mod01_self_assessment
             Degrees = new List<Degree>();
         }
 
-        public string AddDegree(Degree d)
-        {
-            Degrees.Add(d);
-            return "Degree added";
-        }
+        public void AddDegree(Degree d) => Degrees.Add(d);
 
-        public string ShowProgramInfo() => $"Program ID: {ID}, Program Name: {Name}, Number of Degrees in Program: {Degrees.Count}";
+        public string ShowProgramInfo() => $"Program Name: {Name}, Number of Degrees in Program: {Degrees.Count}";
 
     }
 }

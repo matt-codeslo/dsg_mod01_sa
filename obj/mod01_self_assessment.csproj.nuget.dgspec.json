@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/matt/Documents/Code/Intro to C#/Mod01_sa/mod01_self_assessment.csproj": {}
+  },
+  "projects": {
+    "/home/matt/Documents/Code/Intro to C#/Mod01_sa/mod01_self_assessment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Documents/Code/Intro to C#/Mod01_sa/mod01_self_assessment.csproj",
+        "projectName": "mod01_self_assessment",
+        "projectPath": "/home/matt/Documents/Code/Intro to C#/Mod01_sa/mod01_self_assessment.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Documents/Code/Intro to C#/Mod01_sa/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

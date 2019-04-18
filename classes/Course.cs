@@ -5,7 +5,6 @@ namespace mod01_self_assessment
 {
     class Course
     {
-        public int ID { get; set; }
         public string Name { get; set; }
         public List<Student> Students { get; set; }
         public List<Teacher> Teachers { get; set; }
@@ -17,18 +16,10 @@ namespace mod01_self_assessment
             Teachers = new List<Teacher>();
         }
 
-        public string AddTeacher(Teacher t)
-        {
-            Teachers.Add(t);
-            return "Teacher added";
-        }
+        public void AddTeacher(Teacher t) => Teachers.Add(t);
 
-        public string AddStudent(Student s)
-        {
-            Students.Add(s);
-            return "Student added";
-        }
+        public void AddStudent(Student s) => Students.Add(s);
 
-        public string ShowCourseInfo() => $"Course ID: {ID}, Course Name: {Name}, Number of Teachers for course: {Teachers.Count}, Number of Students in course: {Students.Count}";
+        public string ShowCourseInfo() => $"Course Name: {Name}, Number of Teachers for course: {Teachers.Count}, Number of Students in course: {Students.Count}";
     }
 }
